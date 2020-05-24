@@ -1,5 +1,5 @@
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Calibri, Roboto, Helvetica, Arial, sans-serif !default;
-$code-font-family: "Calibri", Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+$code-font-family: "Calibri", "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $base-font-color: #e0e0e0;
@@ -7,8 +7,8 @@ $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
 
-// Original Theme color
-// $theme-color: #86bb48;
+ Original Theme color
+$theme-color: #86bb48;
 
 $theme-color: #9AF777;
 $header-color: #0f0f0f;
@@ -24,8 +24,7 @@ $on-laptop:        800px !default;
 
 // mixins
 @mixin relative-font-size($ratio) {
-	font-size: rem;	
-//	font-size: #{$ratio}rem;
+	font-size: #{$ratio}rem;
 }
 @mixin media-query($device) {
 	@media screen and (max-width: $device) {
