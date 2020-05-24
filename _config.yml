@@ -8,7 +8,7 @@ permalink: :slug
 social:
   twitter: tiddmeister
   github: Lifesine
-  instagram: @LifesineMusic
+#  instagram: @LifesineMusic
 
 plugins:
  - jekyll-feed
