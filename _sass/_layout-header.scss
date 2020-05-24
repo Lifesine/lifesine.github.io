@@ -31,10 +31,10 @@
     position: absolute;
     left: 50%;
     top: 100%;
-    margin-top: -47px;
-    width: 200px;
-    height: 60px;
-    padding: 14px;
+    margin-top: -20px;
+    width: 300px;
+    height: 57px;
+    padding: 10px;
     background: $content-color;
     border-radius: 50%;
     @include media-query($on-mobile) {
