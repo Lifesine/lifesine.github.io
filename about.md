@@ -3,8 +3,10 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hey! Let's see if this updates, given that this Tab already exists...
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+Make sure you never miss a Livestream by subscribing to the Events Calendar!
+
+Google Calendar users can <a rel="click here" target="_blank" href="http://events.lifesinemusic.com">click here</a> to add this to your Calendars.
 
 (Change this by editing `about.md` file)
