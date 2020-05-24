@@ -24,7 +24,8 @@ $on-laptop:        800px !default;
 
 // mixins
 @mixin relative-font-size($ratio) {
-	font-size: #{$ratio}rem;
+	font-size: rem;	
+//	font-size: #{$ratio}rem;
 }
 @mixin media-query($device) {
 	@media screen and (max-width: $device) {
