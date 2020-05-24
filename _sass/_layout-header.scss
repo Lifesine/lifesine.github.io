@@ -11,7 +11,7 @@
     padding-left:20px;
     font-weight: 600;
 }
-
+/*
 .site-title {
     @include relative-font-size(1.625);
     letter-spacing: -1px;
@@ -26,7 +26,16 @@
       padding-right: 45px;
     }
 }
+*/
+.site-logo {
+    position: absolute;
+    left: 1%;
+    top:100%;
+    width: 200px;
+    height: 60px;      
+}
 
+/*
 .site-icon {
     position: absolute;
     left: 50%;
@@ -43,6 +52,7 @@
       margin-top: -25px;
     }
 }
+*/
 
 .site-nav {
     position: absolute;
