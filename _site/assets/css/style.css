@@ -216,7 +216,7 @@ article, .comments, .box {
   top: 0;
   left: 0;
   width: 100%;
-  height: 77px;
+  height: 62px;
   display: flex;
   align-items: center;
   background-color: #000000;
@@ -242,8 +242,8 @@ article, .comments, .box {
 */
 .site-logo {
   text-align: center;
-  width: 250px;
-  height: 75px; }
+  width: 318px;
+  height: 60px; }
 
 /* Centered icon with grey circle
 .site-icon {
@@ -352,6 +352,7 @@ article, .comments, .box {
 
 .site-footer .footer {
   display: flex;
+  flex-direction: row-reverse;
   padding: 15px;
   padding-bottom: 40px; }
 

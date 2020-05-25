@@ -3,9 +3,10 @@
     top:0;
     left:0;
     width:100%;
-    height:77px;
+    height:62px;
     display: flex;
     align-items: center;
+//    justify-content:center;
     background-color:$header-black;
     border-bottom:2px solid $theme-color;
     padding-left:20px;
@@ -30,8 +31,8 @@
 
 .site-logo {
     text-align:center;
-    width: 250px;
-    height: 75px;
+    width: 318px;
+    height: 60px;
 }
 
 /* Centered icon with grey circle
