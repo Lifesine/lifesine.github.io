@@ -198,6 +198,9 @@ article, .comments, .box {
 .page-content {
   margin-top: 80px; }
 
+.tracklist {
+  font-size: 0.8rem; }
+
 .site-header {
   position: fixed;
   top: 0;
@@ -252,7 +255,7 @@ article, .comments, .box {
 */
 .site-nav {
   position: absolute;
-  top: 9px;
+  vertical-align: middle;
   right: 15px;
   border-radius: 5px;
   text-align: right;

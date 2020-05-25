@@ -70,3 +70,7 @@ article, .comments, .box {
 .page-content {
     margin-top: 80px;
 }
+
+.tracklist {
+    @include relative-font-size(.8);
+}
