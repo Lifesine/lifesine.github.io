@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: page
+published: false
 ---
 
 You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).

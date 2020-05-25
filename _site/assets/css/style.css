@@ -139,6 +139,9 @@ table {
       -webkit-overflow-scrolling: touch;
       -ms-overflow-style: -ms-autohiding-scrollbar; } }
 
+svg {
+  fill: #9AF777; }
+
 /**
  * Posts
  */

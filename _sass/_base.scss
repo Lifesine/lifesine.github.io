@@ -195,3 +195,7 @@ table {
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
 }
+
+svg {
+  fill: $theme-color;
+}
