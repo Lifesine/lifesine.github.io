@@ -1,7 +1,7 @@
 ---
 title: Get Content
 layout: page
-published: false
+published: true
 ---
 
 ## SoundCloud
