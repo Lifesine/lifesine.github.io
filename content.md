@@ -33,7 +33,7 @@ Visit my [YouTube channel](http://videos.lifesinemusic.com) for Livestream repla
 </a>
 
 
-[Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go **LIVE**.
+[Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live!
 
 
 
