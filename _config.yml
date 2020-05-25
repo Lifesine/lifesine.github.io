@@ -2,6 +2,7 @@ title: Lifesine Music
 iconURL: assets/logos/ls_logo_wide_tr_v2_900x170.png
 logoURL: assets/logos/ls_logo_wide_v2_1000x300.png
 theme: jekyll-theme-leaf
+artURL: /assets/mix-artwork/
 
 # for a clean URL
 permalink: :slug
