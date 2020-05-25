@@ -150,18 +150,18 @@ svg {
 
 .post-title,
 .post-content h1 {
-  font-size: 2.625rem;
+  font-size: 2.4rem;
   letter-spacing: -1px;
-  line-height: 1.15; }
+  line-height: 1; }
   @media screen and (min-width: 800px) {
     .post-title,
     .post-content h1 {
       font-size: 2.625rem; } }
 
 .post-content h1, .post-content h2, .post-content h3 {
-  margin-top: 30px; }
+  margin-top: 15px; }
 .post-content h4, .post-content h5, .post-content h6 {
-  margin-top: 30px; }
+  margin-top: 15px; }
 .post-content h2 {
   font-size: 1.75rem; }
   @media screen and (min-width: 800px) {

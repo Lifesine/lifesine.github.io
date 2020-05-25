@@ -1,9 +1,10 @@
 ---
-title: Get Updates
+title: Get Content
 layout: page
+published: false
 ---
 
-## Events Calendar
+### SoundCloud
 
 Make sure you never miss a Livestream by subscribing to the Events Calendar!
 
