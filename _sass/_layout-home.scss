@@ -1,10 +1,10 @@
 .home-box {
-    padding:4px;
+    padding:0px;
     overflow:hidden;
     .post-link {
         color: inherit;
         display:block;
-        padding: 10px;
+        padding: 25px;
         transition: .2s background-color;
         &:not(:last-child) {
             border-bottom:1px solid $theme-color;

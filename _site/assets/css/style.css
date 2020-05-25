@@ -322,12 +322,12 @@ article, .comments, .box {
           color: #0f0f0f; } }
 
 .home-box {
-  padding: 4px;
+  padding: 0px;
   overflow: hidden; }
   .home-box .post-link {
     color: inherit;
     display: block;
-    padding: 10px;
+    padding: 25px;
     transition: .2s background-color; }
     .home-box .post-link:not(:last-child) {
       border-bottom: 1px solid #9AF777; }
