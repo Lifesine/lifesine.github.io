@@ -1,5 +1,5 @@
 ---
-title: Content
+title: Get Content!
 layout: page
 published: true
 ---

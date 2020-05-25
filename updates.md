@@ -1,5 +1,5 @@
 ---
-title: Get Updates
+title: Get Updates!
 layout: page
 ---
 
