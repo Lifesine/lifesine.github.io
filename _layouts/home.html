@@ -16,9 +16,16 @@ layout: default
     <div class="box home-box">
       <div class="post-list">
         {%- for post in posts -%}
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            <h3>{{ post.title | escape }}</h3>
+
+          <a class="post-link" style="text-align:center" href="{{ post.url | relative_url }}">
+            <h2>{{ post.title | escape }}</h2>
+          {%- if post.image -%}
+            <div style="text-align:center">
+              <img src=" {{ post.image }}" width="200px" >
+            </div>
+          {%- endif -%}
           </a>
+
         {%- endfor -%}
       </div>
     </div>
