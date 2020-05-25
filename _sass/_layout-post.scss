@@ -71,6 +71,17 @@ article, .comments, .box {
     margin-top: 80px;
 }
 
+/*
+// went unused due to paragraph losing newline characters
 .tracklist {
     @include relative-font-size(.8);
 }
+
+// did not properly center, probably had syntax wrong when calling
+.cover {
+    text-align:center;
+    width:300px;
+    height:auto;
+}
+*/
+

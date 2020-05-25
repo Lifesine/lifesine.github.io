@@ -198,9 +198,19 @@ article, .comments, .box {
 .page-content {
   margin-top: 80px; }
 
+/*
+// went unused due to paragraph losing newline characters
 .tracklist {
-  font-size: 0.8rem; }
+    @include relative-font-size(.8);
+}
 
+// did not properly center, probably had syntax wrong when calling
+.cover {
+    text-align:center;
+    width:300px;
+    height:auto;
+}
+*/
 .site-header {
   position: fixed;
   top: 0;
