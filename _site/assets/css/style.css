@@ -325,9 +325,9 @@ article, .comments, .box {
     color: inherit;
     display: block;
     padding: 10px;
-    transition: .3s background-color; }
+    transition: .2s background-color; }
     .home-box .post-link:not(:last-child) {
-      border-bottom: 2px solid #0f0f0f; }
+      border-bottom: 2px solid #9AF777; }
     .home-box .post-link:hover {
       text-decoration: none;
       background-color: #0f0f0f; }
