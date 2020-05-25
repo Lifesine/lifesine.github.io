@@ -10,7 +10,7 @@ published: true
 
 ## SoundCloud
 
-Catch a new episode of _Sines of Life Radio_ every month at [SoundCloud.com/Lifesine](https://soundcloud.com/lifesine)
+Catch a new episode of _Sines of Life Radio_ every month at [SoundCloud.com/Lifesine](https://soundcloud.com/lifesine).
 
 <br>
 

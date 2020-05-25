@@ -1,7 +1,7 @@
 ---
 title: Feed
 layout: default
-published: true
+published: false
 ---
 <h3 style="text-align:center;color:#9AF777;padding-top:15px;font-size:18px">All Posts</h3>
 <div class="home">
