@@ -6,9 +6,9 @@
         display:block;
         padding: 25px;
         transition: .2s background-color;
-        &:not(:last-child) {
+//        &:not(:last-child) {
             border-bottom:1px solid $theme-color;
-        }
+//        }
         &:hover {
             text-decoration: none;
             background-color: $header-color;

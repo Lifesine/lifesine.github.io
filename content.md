@@ -1,5 +1,5 @@
 ---
-title: Get Content!
+title: Listen Now
 layout: page
 published: true
 ---

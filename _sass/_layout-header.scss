@@ -109,6 +109,9 @@
     }
   
     .page-link {
+      font: $base-font-weight #{$base-font-size}/#{$base-line-height} $header-font-family;
+      font-weight: 600;
+      letter-spacing: -0.8px;
       display: block;
       padding: 5px 10px;
   

@@ -17,7 +17,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
-  font: 400 16px/1.2 Calibri, "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  font: 400 16px/1.2 Lato, Montserrat, Calibri, "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
   color: #e0e0e0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -98,6 +98,7 @@ li > ol {
   margin-bottom: 0; }
 
 h1, h2, h3, h4, h5, h6 {
+  font: 400 12.8px Montserrat, "Lato", "Open Sans";
   font-weight: 600;
   color: #fff; }
 
@@ -150,28 +151,28 @@ svg {
 
 .post-title,
 .post-content h1 {
-  font-size: 2.4rem;
+  font-size: 1.8rem;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (min-width: 800px) {
     .post-title,
     .post-content h1 {
-      font-size: 2.625rem; } }
+      font-size: 2.4rem; } }
 
 .post-content h1, .post-content h2, .post-content h3 {
   margin-top: 15px; }
 .post-content h4, .post-content h5, .post-content h6 {
   margin-top: 15px; }
 .post-content h2 {
-  font-size: 1.75rem; }
+  font-size: 1.4rem; }
   @media screen and (min-width: 800px) {
     .post-content h2 {
       font-size: 2rem; } }
 .post-content h3 {
-  font-size: 1.375rem; }
+  font-size: 1.25rem; }
   @media screen and (min-width: 800px) {
     .post-content h3 {
-      font-size: 1.625rem; } }
+      font-size: 1.5rem; } }
 .post-content h4 {
   font-size: 1.25rem; }
 .post-content h5 {
@@ -321,6 +322,9 @@ iframe.yt {
     border-radius: 20px;
     padding: 10px; }
   .site-nav .page-link {
+    font: 400 16px/1.2 Montserrat, "Lato", "Open Sans";
+    font-weight: 600;
+    letter-spacing: -0.8px;
     display: block;
     padding: 5px 10px; }
     .site-nav .page-link:not(:last-child) {
@@ -357,9 +361,8 @@ iframe.yt {
     color: inherit;
     display: block;
     padding: 25px;
-    transition: .2s background-color; }
-    .home-box .post-link:not(:last-child) {
-      border-bottom: 1px solid #9AF777; }
+    transition: .2s background-color;
+    border-bottom: 1px solid #9AF777; }
     .home-box .post-link:hover {
       text-decoration: none;
       background-color: #0f0f0f; }

@@ -3,7 +3,7 @@ layout: default
 ---
 <!--<h1 style="text-align:center;padding-top:15px">Welcome to Lifesine Music</h1>
 -->
-<h3 style="text-align:center;color:#9AF777;padding-top:15px">Latest Posts</h3>
+<h3 style="text-align:center;color:#9AF777;padding-top:15px;font-size:18px">Latest Posts</h3>
 <div class="home">
 
   {{ content }}
@@ -12,14 +12,14 @@ layout: default
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
+      <h1 class="post-list-heading">{{ page.list_title }}</h1>
     {%- endif -%}
     <div class="box home-box">
       <div class="post-list">
-        {%- for post in posts -%}
+        {%- for post in posts limit:5 -%}
 
           <a class="post-link" style="text-align:center" href="{{ post.url | relative_url }}">
-            <h2>{{ post.title | escape }}</h2>
+            <h1 style="font-size:22px">{{ post.title | escape }}</h1>
           {%- if post.image -%}
             <div style="text-align:center">
               <img src=" {{ post.image }}" width="200px" >
@@ -30,7 +30,11 @@ layout: default
         {%- endfor -%}
       </div>
     </div>
-
   {%- endif -%}
+
+    <div>
+      <a style="text-align:center" href="{{ site.baseurl }}{% link _posts/2000-01-01-legacy.md %}">
+        <h2 style="font-size:18px">Looking for more content?</h2>
+    </div>
 
 </div>
