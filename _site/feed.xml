@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-25T15:03:59-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lifesine Music</title><entry><title type="html">Livestream #04 Replay</title><link href="http://localhost:4000/live04" rel="alternate" type="text/html" title="Livestream #04 Replay" /><published>2020-05-22T00:00:00-07:00</published><updated>2020-05-22T00:00:00-07:00</updated><id>http://localhost:4000/LIVE04</id><content type="html" xml:base="http://localhost:4000/live04">&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/assets/mix-artwork/Lifesine_Livestream_cover_v1.1.png&quot; width=&quot;300px&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-25T15:35:39-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lifesine Music</title><entry><title type="html">Livestream #04 Replay</title><link href="http://localhost:4000/live04" rel="alternate" type="text/html" title="Livestream #04 Replay" /><published>2020-05-22T00:00:00-07:00</published><updated>2020-05-22T00:00:00-07:00</updated><id>http://localhost:4000/LIVE04</id><content type="html" xml:base="http://localhost:4000/live04">&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/assets/mix-artwork/Lifesine_Livestream_cover_v1.1.png&quot; width=&quot;300px&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;may-22-2020&quot;&gt;May 22, 2020&lt;/h3&gt;
 
@@ -12,6 +12,8 @@
     &lt;iframe class=&quot;yt&quot; allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/oMTqCpaL7ho&quot;&gt;&lt;/iframe&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;!-- original hand-sized youtube iframe
 &lt;div style=&quot;text-align:center;padding-top:10px&quot;&gt;
@@ -31,6 +33,8 @@
     &lt;iframe class=&quot;yt&quot; allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/E2Hh245K2RU&quot;&gt;&lt;/iframe&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;!-- original hand-sized youtube iframe
 &lt;div style=&quot;text-align:center;padding-top:10px&quot;&gt;
@@ -89,7 +93,9 @@
   &lt;li&gt;Chic - I’ll Be There&lt;/li&gt;
   &lt;li&gt;Kaskade - Love Like That&lt;/li&gt;
   &lt;li&gt;Billy Idol - Dancing With Myself (RAC Remix) [LS Short Edit v1]&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Lifesine</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/mix-artwork/sol/70-Funk_Pilot.png" /><media:content medium="image" url="http://localhost:4000/assets/mix-artwork/sol/70-Funk_Pilot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Livestream #01 Replay</title><link href="http://localhost:4000/live01" rel="alternate" type="text/html" title="Livestream #01 Replay" /><published>2020-04-17T00:00:00-07:00</published><updated>2020-04-17T00:00:00-07:00</updated><id>http://localhost:4000/LIVE01</id><content type="html" xml:base="http://localhost:4000/live01">&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/assets/mix-artwork/Lifesine_Livestream_cover_v1.1.png&quot; width=&quot;300px&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Lifesine</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/mix-artwork/sol/70-Funk_Pilot.png" /><media:content medium="image" url="http://localhost:4000/assets/mix-artwork/sol/70-Funk_Pilot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Livestream #01 Replay</title><link href="http://localhost:4000/live01" rel="alternate" type="text/html" title="Livestream #01 Replay" /><published>2020-04-17T00:00:00-07:00</published><updated>2020-04-17T00:00:00-07:00</updated><id>http://localhost:4000/LIVE01</id><content type="html" xml:base="http://localhost:4000/live01">&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/assets/mix-artwork/Lifesine_Livestream_cover_v1.1.png&quot; width=&quot;300px&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;april-17-2020&quot;&gt;April 17, 2020&lt;/h3&gt;
 
@@ -105,6 +111,8 @@
     &lt;iframe class=&quot;yt&quot; allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/9snqJMLw-Gc&quot;&gt;&lt;/iframe&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;!-- original hand-sized youtube iframe
 &lt;div style=&quot;text-align:center;padding-top:10px&quot;&gt;
@@ -146,8 +154,85 @@
   &lt;li&gt;Baile - Amae (Sasha fabric1999 Mix)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Lifesine</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/mix-artwork/sol/69-Stir_Crazy.png" /><media:content medium="image" url="http://localhost:4000/assets/mix-artwork/sol/69-Stir_Crazy.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Looking for more content?</title><link href="http://localhost:4000/legacy" rel="alternate" type="text/html" title="Looking for more content?" /><published>2000-01-01T00:00:00-08:00</published><updated>2000-01-01T00:00:00-08:00</updated><id>http://localhost:4000/legacy</id><content type="html" xml:base="http://localhost:4000/legacy">&lt;p&gt;Looking for something older, perhaps?&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Lifesine</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/mix-artwork/sol/69-Stir_Crazy.png" /><media:content medium="image" url="http://localhost:4000/assets/mix-artwork/sol/69-Stir_Crazy.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sines of Life 68: We Are What We Do</title><link href="http://localhost:4000/sol68" rel="alternate" type="text/html" title="Sines of Life 68: We Are What We Do" /><published>2020-02-29T00:00:00-08:00</published><updated>2020-02-29T00:00:00-08:00</updated><id>http://localhost:4000/SOL68</id><content type="html" xml:base="http://localhost:4000/sol68">&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/assets/mix-artwork/sol/68-What_We_Do.png&quot; width=&quot;300px&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check any of my &lt;strong&gt;&lt;a href=&quot;content&quot;&gt;content outlets&lt;/a&gt;&lt;/strong&gt; directly, or back on my legacy site: &lt;a href=&quot;http://legacy.lifesinemusic.com&quot;&gt;legacy.lifesinemusic.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quite the collection of personal favorites in this month’s roster of featured artists. We find ourselves both opening and closing this episode with songs from Lane 8’s latest and unsurprisingly triumphant new artist album, plus a dyad of refreshed 80’s classics thanks to Above &amp;amp; Beyond and Shane 54 respectively putting a modern twist onto two old favorites. Sprinkle in the likes of Marsh, Spencer Brown, Dezza, and something new-ish from Mat Zo and you’re in for more than one treat.&lt;/p&gt;
+
+&lt;p&gt;Enjoy, and turn it up…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://drive.google.com/uc?export=download&amp;amp;id=1ZFqfQzIrTI0_scoPU5xRlPI-F0HQe5Hl &quot; target=&quot;_blank&quot;&gt;Download this mix&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe allow=&quot;autoplay&quot; frameborder=&quot;no&quot; height=&quot;166&quot; scrolling=&quot;no&quot; src=&quot; https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/768801013&amp;amp;color=%234131de&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;tracklist&quot;&gt;Tracklist&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lane 8 - Road feat. Arctic Lake&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Marsh - 1992&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Eli &amp;amp; Fur - Into The Night&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;3LAU - Tokyo feat. XIRA&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Nox Vahn - Brainwasher (Original Mix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Tove Lo - Sweettalk my Heart (BloodPop® &amp;amp; BURNS Vitaclub Remix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Cubicolor - Wake Me Up&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Paraleven - Soloma&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Quivver - Long Time&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Joris Voorn feat. HÆLOS - Messiah (Dark Science Piano Mix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Dezza - Close Your Eyes (Original Mix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Mat Zo - Tracing Steps&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Qrion - B4 Montreal&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Spencer Brown, ilan Bluestone - Pooperling&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;No Mana, Jantine - Strangers&lt;/li&gt;
+  &lt;li&gt;Cubicore &amp;amp; Shane 54 - Personal Jesus (Original Mix)&lt;/li&gt;
+  &lt;li&gt;Above &amp;amp; Beyond - Blue Monday (Extended Mix)&lt;/li&gt;
+  &lt;li&gt;Lane 8 - The Flood feat. Nevve&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Lifesine</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/mix-artwork/sol/68-What_We_Do.png" /><media:content medium="image" url="http://localhost:4000/assets/mix-artwork/sol/68-What_We_Do.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sines of Life 67: Hot &amp;amp; Cold</title><link href="http://localhost:4000/sol67" rel="alternate" type="text/html" title="Sines of Life 67: Hot &amp; Cold" /><published>2020-01-28T00:00:00-08:00</published><updated>2020-01-28T00:00:00-08:00</updated><id>http://localhost:4000/SOL67</id><content type="html" xml:base="http://localhost:4000/sol67">&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/assets/mix-artwork/sol/67-Hot_Cold.png&quot; width=&quot;300px&quot; height=&quot;auto&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A story of exploration, infatuation, paradise lost, and acceptance… ‘Hot &amp;amp; Cold’ takes you on a relationship roller coaster in audio form. Whether you’re looking to crank up the heat with instant earworms from Lizzo, David Guetta, and Phoebe Ryan, or cool things down a notch with the mellow stylings of Shallou and Qrion, this storytime mix has got something for you.&lt;br /&gt;
+&lt;br /&gt;
+Not quite a &lt;em&gt;BackTrack&lt;/em&gt;, but I found myself craving some old-school Benassi, so I’m sure you’ll all recognize his timeless ‘Beautiful People’ in the final act. Enjoy, and turn it up…&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://drive.google.com/uc?export=download&amp;amp;id=1Hl4hlqKWTPAt5Y-zK_gwvvm5HMp8Uv4V &quot; target=&quot;_blank&quot;&gt;Download this mix&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe allow=&quot;autoplay&quot; frameborder=&quot;no&quot; height=&quot;166&quot; scrolling=&quot;no&quot; src=&quot; https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/751341349&amp;amp;color=%23de0000&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot; width=&quot;100%&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;tracklist&quot;&gt;Tracklist&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lost Kings feat. Anna Clendening - Too Far Gone&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Lizzo - Good as Hell feat. Ariana Grande - Remix&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;David Guetta - Let It Be Me (feat. Ava Max)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;3LAU, Justin Caruso feat. Iselin - Better With You&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Betty Who - Just Like Me&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Shallou, Emmit Fenn - All Your Days&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Great Good Fine OK - Easy (Gavin Moss Remix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Charli XCX ft. Tove Lo, ALMA - Out Of My Head&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;OCULA - Empirical (Extended Mix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Nora En Pure - You Make Me Float (Dinka Remix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Andrew Bayer feat. Alison May - Immortal Lover (Qrion Remix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Big Z feat. Tima Dee - Alive&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Paraleven - Keep Going&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Le Youth ft. Sydnie - If You’re Leaving&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Tobtok, Simon Field, Oliver Nelson feat. Salena Mastroianni - Is It Real?&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Icona Pop - Next Mistake (Joel Corry Remix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Zedd feat. Bright Lights - Follow You Down&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Little Boots vs Las Salinas - Motorway Winston [Shane 54 Mashup]&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Benny Benassi - Beautiful People Feat. Chris Brown&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Lycii, Declan James - Signal (Original Mix)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Grum - Running feat. Jinadu&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Phoebe Ryan - ICIMY&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Taylor Swift - We Are Never Ever Getting Back Together&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Lifesine</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/mix-artwork/sol/67-Hot_Cold.png" /><media:content medium="image" url="http://localhost:4000/assets/mix-artwork/sol/67-Hot_Cold.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Looking for more content?</title><link href="http://localhost:4000/legacy" rel="alternate" type="text/html" title="Looking for more content?" /><published>2000-01-01T00:00:00-08:00</published><updated>2000-01-01T00:00:00-08:00</updated><id>http://localhost:4000/legacy</id><content type="html" xml:base="http://localhost:4000/legacy">&lt;p&gt;Looking for something older, perhaps?&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;feed&quot;&gt;Feed&lt;/a&gt;&lt;/strong&gt; has older posts listed, but you can also check any of my &lt;strong&gt;&lt;a href=&quot;content&quot;&gt;content outlets&lt;/a&gt;&lt;/strong&gt; directly, or back on my legacy site: &lt;a href=&quot;http://legacy.lifesinemusic.com&quot;&gt;legacy.lifesinemusic.com&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>Lifesine</name></author><summary type="html">Looking for something older, perhaps?</summary></entry></feed>
