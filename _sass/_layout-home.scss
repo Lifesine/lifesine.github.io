@@ -7,7 +7,7 @@
         padding: 10px;
         transition: .2s background-color;
         &:not(:last-child) {
-            border-bottom:2px solid $theme-color;
+            border-bottom:1px solid $theme-color;
         }
         &:hover {
             text-decoration: none;

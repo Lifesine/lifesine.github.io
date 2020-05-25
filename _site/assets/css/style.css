@@ -17,7 +17,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
-  font: 400 16px/1.5 Calibri, -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  font: 400 16px/1.2 Calibri, "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
   color: #e0e0e0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -327,7 +327,7 @@ article, .comments, .box {
     padding: 10px;
     transition: .2s background-color; }
     .home-box .post-link:not(:last-child) {
-      border-bottom: 2px solid #9AF777; }
+      border-bottom: 1px solid #9AF777; }
     .home-box .post-link:hover {
       text-decoration: none;
       background-color: #0f0f0f; }
