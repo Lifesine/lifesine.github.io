@@ -2,5 +2,3 @@
 
 source "https://rubygems.org"
 gemspec
-ruby
-gem "jekyll-theme-leaf"
