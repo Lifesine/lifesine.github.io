@@ -1,5 +1,6 @@
 ---
 layout: home
+exclude: true
 ---
 
 ### Livestreams every other Friday!
