@@ -20,14 +20,15 @@
 }
 
 .announce-border {
-    max-width: 60%;
-    position: flex;
-    left: 50%;
-    background: linear-gradient(to right, $theme-color, $theme-color2);
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(140deg, $theme-color, $theme-color2);
     padding: 3px;
 }
 
 .announce {
+    display: flex;
+    flex-direction: column;
     background:$header-color;
     text-align: center;
     padding: 10px;

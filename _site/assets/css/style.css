@@ -370,13 +370,14 @@ iframe.yt {
       margin: 0; }
 
 .announce-border {
-  max-width: 60%;
-  position: flex;
-  left: 50%;
-  background: linear-gradient(to right, #9AF777, #C764E8);
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(140deg, #9AF777, #C764E8);
   padding: 3px; }
 
 .announce {
+  display: flex;
+  flex-direction: column;
   background: #0f0f0f;
   text-align: center;
   padding: 10px; }

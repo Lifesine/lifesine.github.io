@@ -2,20 +2,24 @@
 layout: default
 ---
 <!--<h1 style="text-align:center;padding-top:15px">Welcome to Lifesine Music</h1>
-
-
-<div class="announce-border"><div class="announce">
-  Here is some nifty text-in-a-box!
-</div></div>
 -->
 
-<div>
-  <h3 style="text-align:center;color:#9AF777;padding-top:15px;font-size:18px">Latest Posts</h3>
-</div>
 
 <div class="home">
 
-  {{ content }}
+  <div style="display:flex;justify-content:center;padding:10px">
+    <div class="announce-border">
+      <div class="announce">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <h3 style="text-align:center;color:#9AF777;padding-top:15px;font-size:18px">Latest Posts</h3>
+  </div>
+
+
 
   {% assign posts = site.posts %}
 
@@ -41,9 +45,9 @@ layout: default
     </div>
   {%- endif -%}
 
-    <div>
-      <a style="text-align:center" href="{{ site.baseurl }}{% link _posts/2000-01-01-legacy.md %}">
-        <h2 style="font-size:18px">Looking for more content?</h2>
-    </div>
+  <div>
+    <a style="text-align:center" href="{{ site.baseurl }}{% link _posts/2000-01-01-legacy.md %}">
+      <h2 style="font-size:18px">Looking for more content?</h2>
+  </div>
 
 </div>
