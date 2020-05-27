@@ -33,7 +33,7 @@ Visit my [YouTube channel](http://videos.lifesinemusic.com) for Livestream repla
 
 ## Twitch
 
-Livestreams are every 2 weeks on Friday – [follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live!
+Livestreams are every 2 weeks on Friday during Shelter-in-Place! [Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live.
 
 **When:** Fridays Fortnightly, 5:30pm PT // 8:30pm ET
 
