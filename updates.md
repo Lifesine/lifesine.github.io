@@ -16,7 +16,7 @@ Google Calendar users can <a rel="click here" target="_blank" href="http://event
 
 You can also simply [view the Events Calendar on the web](http://calendar.lifesinemusic.com).
 
-<br>
+----
 
 <a target="_blank" rel="me" href="http://vip.lifesinemusic.com">
     <svg style="padding:10px" role="img" viewBox="0 0 20 20" height="100px" width="100px" xmln	="http://www.w3.org/2000/svg"><title>Mailing List</title>

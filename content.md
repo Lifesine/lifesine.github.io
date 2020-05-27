@@ -12,7 +12,7 @@ published: true
 
 Catch a new episode of _Sines of Life Radio_ every month at [SoundCloud.com/Lifesine](https://soundcloud.com/lifesine).
 
-<br>
+----
 
 <a target="_blank" rel="me" href="https://www.youtube.com/channel/UCB8y_5POFkgr-Ok5UkgBO-Q">
     <svg role="img" viewBox="0 8 50 34" width="100px" height="60px" xmlns="http://www.w3.org/2000/svg"><title>YouTube</title>
@@ -24,7 +24,7 @@ Catch a new episode of _Sines of Life Radio_ every month at [SoundCloud.com/Life
 Visit my [YouTube channel](http://videos.lifesinemusic.com) for Livestream replays.
 
 
-<br>
+----
 
 <a target="_blank" rel="me" href="http://twitch.tv/lifesinemusic">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90px" height="70px" viewBox="-10 0 256 268"><title>Twitch</title>
@@ -33,7 +33,11 @@ Visit my [YouTube channel](http://videos.lifesinemusic.com) for Livestream repla
 
 ## Twitch
 
-Livestreams are every 2 weeks on Friday during Shelter-in-Place! [Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live.
+Livestreams are every 2 weeks on Friday during Shelter-in-Place! Start your weekends off right for as long as I'm able to keep it up 😆.
+
+[Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live!
+
+<br>
 
 **When:** Fridays Fortnightly, 5:30pm PT // 8:30pm ET
 
