@@ -143,6 +143,19 @@ table {
 svg {
   fill: #9AF777; }
 
+/*
+.module-border-wrap {
+//  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right, green, purple);
+  padding: 3px;
+}
+
+.module {
+  background:$header-color;
+}
+*/
 /**
  * Posts
  */
