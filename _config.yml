@@ -4,7 +4,7 @@ title: Lifesine Music
 iconURL: assets/logos/ls_logo_wide_tr_v2_900x170.png
 #logoURL: assets/logos/ls_logo_wide_v2_1000x300.png
 logoURL: assets/logos/ls_logo_wide_tr_v2_900x170.png
-theme: jekyll-theme-leaf
+#theme: jekyll-theme-leaf
 artURL: /assets/mix-artwork/
 dlbase: "https://drive.google.com/uc?export=download&id="
 
@@ -13,8 +13,8 @@ dlbase: "https://drive.google.com/uc?export=download&id="
 permalink: :slug
 
 social:
-  twitter: tiddmeister
-  github: Lifesine
+#  twitter: tiddmeister
+#  github: Lifesine
   soundcloud: Lifesine
 
 plugins:
