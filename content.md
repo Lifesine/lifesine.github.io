@@ -33,7 +33,18 @@ Visit my [YouTube channel](http://videos.lifesinemusic.com) for Livestream repla
 
 ## Twitch
 
-[Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live!
+Livestreams are every 2 weeks on Friday! [Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live!
+
+**When:** 
+Fridays Fortnightly, 5:30pm PT // 8:30pm ET
+
+**Where:** [twitch.tv/LifesineMusic](twitch.tv/LifesineMusic)
+
+#### Upcoming Livestreams
+
+<iframe style="padding:20px" src="https://calendar.google.com/calendar/embed?height=250&amp;wkst=1&amp;bgcolor=%239AF777&amp;ctz=America%2FLos_Angeles&amp;src=NDgxNjNlZ2phM3VtYXQ3N21uYm9obWQzMjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D81B60&amp;showTitle=0&amp;showNav=0&amp;mode=AGENDA&amp;showTz=0&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0" style="border:solid 1px #777" width="350" height="225" frameborder="0" scrolling="no"></iframe> 
+
+[Add this Calendar to your Google Calendar](http://events.lifesinemusic.com).
 
 
 <br>
