@@ -25,7 +25,7 @@ layout: default
     {%- endif -%}
     <div class="box home-box">
       <div class="post-list">
-        {%- for post in posts limit:10 -%}
+        {%- for post in posts limit:8 -%}
 
           <a class="post-link" style="text-align:center" href="{{ post.url | relative_url }}">
             <h1 style="font-size:22px">{{ post.title | escape }}</h1>
