@@ -12,9 +12,9 @@ layout: page
 
 Make sure you never miss a Livestream by subscribing to the Events Calendar!
 
-Google Calendar users can <a rel="click here" target="_blank" href="http://events.lifesinemusic.com">subscribe to the Events Calendar directly</a>, and be sure to [turn on Notifications](https://support.google.com/calendar/answer/37242)!
+Google Calendar users can <a rel="click here" target="_blank" href="http://events.lifesinemusic.com">subscribe to the Events Calendar directly</a>, and be sure to [set up on Notifications](https://support.google.com/calendar/answer/37242) to get reminders when they're most convenient for you.
 
-You can also simply [view the Events Calendar on the web](http://calendar.lifesinemusic.com).
+You can also see a list of upcoming events on my [Where to Listen](content) page.
 
 ----
 
