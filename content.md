@@ -41,7 +41,7 @@ Livestreams are every 2 weeks on Friday during Shelter-in-Place! Start your week
 
 **When:** Fridays Fortnightly, 5:30pm PT // 8:30pm ET
 
-**Where:** [twitch.tv/LifesineMusic](twitch.tv/LifesineMusic)
+**Where:** [twitch.tv/LifesineMusic](http://twitch.tv/LifesineMusic)
 
 #### Upcoming Livestreams
 
