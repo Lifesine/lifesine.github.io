@@ -21,7 +21,7 @@ Catch a new episode of _Sines of Life Radio_ every month at [SoundCloud.com/Life
 
 ## YouTube
 
-Visit my [YouTube channel](http://videos.lifesinemusic.com) for Livestream replays.
+Visit my [YouTube channel](http://videos.lifesinemusic.com) to catch when Livestream replay go up. Help me out with a Follow, and one day I'll actually get to brand my channel! 😝
 
 
 ----
