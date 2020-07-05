@@ -3,7 +3,7 @@ layout: post
 author: Lifesine
 title: "Sines of Life XX: Title (Livestream #XX)"
 image: "/assets/mix-artwork/sol/XX-title.png"
-dllink: "URL"
+dllink: "https://drive.google.com/uc?export=download&id=STRING"
 video: "https://www.youtube.com/embed/STRING"
 published: false
 ---
