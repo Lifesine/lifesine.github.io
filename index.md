@@ -3,6 +3,6 @@ layout: home
 exclude: true
 ---
 
-**Livestreams every other Friday during SIP!**
+**Summer Finale Livestream #10! Friday, 9/4**
 
-Check out the [Where to Listen](content) page for Twitch schedule and more info.
+Don't miss the Summer Season Livestream Finale this Friday, Sept 4 at 5:30 PT // 8:30 ET, streaming as always on my [Twitch Channel](http://twitch.tv/lifesinemusic)! 
