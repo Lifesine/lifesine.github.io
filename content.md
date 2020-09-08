@@ -41,11 +41,13 @@ There is not currently a regular cadence or schedule for Livestreams, but keep a
 [Follow me on Twitch](https://twitch.tv/lifesinemusic) to make sure you get notified when I go live!
 
 <br>
+
 <!--
 **When:** Fridays Fortnightly, 5:30pm PT // 8:30pm ET
 
 **Where:** [twitch.tv/LifesineMusic](http://twitch.tv/LifesineMusic)
 -->
+
 #### Upcoming Livestreams
 
 <iframe style="padding:20px" src="https://calendar.google.com/calendar/embed?height=225&amp;wkst=1&amp;bgcolor=%239AF777&amp;ctz=America%2FLos_Angeles&amp;src=NDgxNjNlZ2phM3VtYXQ3N21uYm9obWQzMjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23C764E8&amp;showTitle=1&amp;showNav=0&amp;mode=AGENDA&amp;showTz=0&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;showDate=0" style="border:solid 1px #777" width="350" height="225" frameborder="0" scrolling="no"></iframe> 
