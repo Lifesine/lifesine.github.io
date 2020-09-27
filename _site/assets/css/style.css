@@ -369,6 +369,21 @@ iframe.yt {
     .home-box .post-link h3 {
       margin: 0; }
 
+.feed-box {
+  padding: 0px;
+  overflow: hidden; }
+  .feed-box .post-link {
+    color: inherit;
+    display: block;
+    padding: 15px;
+    transition: .2s background-color;
+    border-bottom: 1px solid #9AF777; }
+    .feed-box .post-link:hover {
+      text-decoration: none;
+      background-color: #0f0f0f; }
+    .feed-box .post-link h3 {
+      margin: 0; }
+
 .announce-border {
   display: flex;
   justify-content: center;
@@ -381,6 +396,14 @@ iframe.yt {
   background: #0f0f0f;
   text-align: center;
   padding: 10px; }
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  flex: 1 0 auto;
+  min-width: 100px;
+  align-items: center; }
 
 .site-footer .footer {
   display: flex;

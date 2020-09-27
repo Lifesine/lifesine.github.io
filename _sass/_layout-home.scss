@@ -19,6 +19,27 @@
     }
 }
 
+.feed-box {
+    padding:0px;
+    overflow:hidden;
+    .post-link {
+        color: inherit;
+        display:block;
+        padding: 15px;
+        transition: .2s background-color;
+//        &:not(:last-child) {
+            border-bottom:1px solid $theme-color;
+//        }
+        &:hover {
+            text-decoration: none;
+            background-color: $header-color;
+        }
+        h3 {
+            margin:0;
+        }
+    }
+}
+
 .announce-border {
     display: flex;
     justify-content: center;
@@ -34,6 +55,11 @@
     padding: 10px;
 }
 
-
-
-
+.flex-row {
+    display:flex;
+    flex-direction:row;
+    justify-content:left;
+    flex: 1 0 auto;
+    min-width:100px;
+    align-items: center;
+}

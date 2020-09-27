@@ -1,0 +1,82 @@
+---
+layout: default
+---
+<!--<h1 style="text-align:center;padding-top:15px">Welcome to Lifesine Music</h1>
+
+
+
+<div class="home">
+
+  <div style="display:flex;justify-content:center;padding:10px">
+    <div class="announce-border">
+      <div class="announce">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  <div style="display;flex:justify-content:center" >
+    <h3 style="text-align:center;color:#9AF777;padding-top:15px;font-size:22px;line-height: .9">Latest Posts</h3>
+    <div style="text-align:center">
+      <img style="padding-top:7px;border-top:1px solid #9AF777" width="140px" src="/assets/misc/Bars_280X98.png">
+    </div>  
+  </div>
+
+-->
+
+  <div style="display;flex:justify-content:center" >
+    <h3 style="text-align:center;color:#9AF777;padding-top:15px;font-size:22px;line-height: .9">The Feed</h3>
+    <div style="text-align:center">
+      <img style="padding-top:7px;border-top:1px solid #9AF777" width="140px" src="/assets/misc/Bars_280X98.png">
+    </div>  
+  </div>
+
+  {% assign posts = site.posts %}
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+    {%- endif -%}
+    <div class="box feed-box">
+      <div class="post-list">
+        {%- for post in posts limit:500 -%}
+
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <div class="flex-row">
+            {%- if post.image -%}
+              <div>
+                <img src=" {{ post.image }}" width="100px" style="min-width:100px" >
+              </div>
+              <div style="font-size:20px;padding-left:8px">{{ post.title | escape }}</div>
+            </div>
+          {%- endif -%}
+          </a>
+
+        {%- endfor -%}
+      </div>
+    </div>
+  {%- endif -%}
+
+<!--
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+    {%- endif -%}
+    <div class="box home-box">
+      <div class="post-list">
+        {%- for post in posts limit:500 -%}
+
+          <a class="post-link" style="text-align:left" href="{{ post.url | relative_url }}">
+            <h2 style="font-size:20px">{{ post.title | escape }}</h2>
+          {%- if post.image -%}
+            <div style="text-align:left">
+              <img src=" {{ post.image }}" width="130px" >
+            </div>
+          {%- endif -%}
+          </a>
+
+        {%- endfor -%}
+      </div>
+    </div>
+  {%- endif -%}
+-->
+
+</div>
