@@ -12,7 +12,7 @@ published: true
 <div style="text-align:center"><img src="/assets/mix-artwork/AB20_tracklist.png" width="400px" height="auto" /></div>
 <br>
 
-When I heard that fans were being enlisted to vie for a spot alongside 20 Anjunabeats legends in [celebrating the 20th Anniversary of the label](https://anjunabeats.com/20/) through an all-Anjunabeats mix compilation, my mind immediately began running through the vast list of favorites from over the last two decades that have stuck with me to this day.
+When I heard that fans were invited to vie for a spot alongside 20 Anjunabeats legends in [celebrating the 20th Anniversary of the label](https://anjunabeats.com/20/) by submitting an all-Anjunabeats mix compilation, my mind immediately began running through the vast list of favorites from over the last two decades that have stuck with me to this day.
 
 From big, synthy, melodic adventures by Mat Zo, Arty, Kyau & Albert, and Audien to old crate favorites by Solarity, Mike Shiver, Super8 & Tab, and Boom Jinx, through to the bountiful Above & Beyond originals remixed by the label mainstays like ilan Bluestone, Jason Ross, and the more laidback Luttrell – the sound and character of Anjunabeats has continued to evolve and develop over the years, and every one of these tracks still sounds just as good strung together today as they did on their first play.
 
