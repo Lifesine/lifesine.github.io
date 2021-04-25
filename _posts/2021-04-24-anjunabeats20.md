@@ -3,7 +3,7 @@ layout: post
 author: Lifesine
 title: "Lifesine Presents: 20 Years Of Anjunabeats"
 image: "/assets/mix-artwork/AB20_cover.png"
-dllink: "https://drive.google.com/uc?export=download&id=1uG4FD8qBnZ8R6gk4j36XPLnJZVCPW06suuvx2aIP-ks"
+dllink: "https://drive.google.com/uc?export=download&id=1TkNvkGS89ZB1wvDWa6Q7iX9w3gf69dvO"
 published: true
 ---
 
