@@ -8,7 +8,7 @@ video: "https://www.youtube.com/embed/STRING"
 published: false
 ---
 
-<div style="text-align:center"><img src="{{ page.image }}" width="300px" height="auto" /></div>
+<div style="text-align:center"><img src="{{ page.image }}" width="400px" height="auto" /></div>
 <br>
 
 BODY
