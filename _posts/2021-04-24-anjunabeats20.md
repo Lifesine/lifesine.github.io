@@ -18,7 +18,7 @@ From big, synthy, melodic adventures by Mat Zo, Arty, Kyau & Albert, and Audien 
 
 So, to A&B themselves and the entire Anjunabeats team & family, thank you for the incredible trip down memory lane, thank you for the opportunity to share my personal Anjuna experience with you, and–most of all–thank you for the many years of incredible music.
 
-Without further adieu – turn it up...
+Without further ado – turn it up...
 
 <br>
 
