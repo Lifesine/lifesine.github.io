@@ -9,7 +9,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (>=2.8.0)
+    addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.7)
@@ -72,7 +72,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 2.2.20)
+  bundler (~> 2.1.4)
   jekyll-theme-leaf!
   kramdown-parser-gfm
   rake (~> 12.0)
